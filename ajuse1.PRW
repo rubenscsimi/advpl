@@ -18,7 +18,6 @@ PRIVATE nMeter      := 0
 PRIVATE oSay        := Nil
 PRIVATE oMeter      := Nil
 private aMsg		:={}
-private teste
 
 ///comentario
 
