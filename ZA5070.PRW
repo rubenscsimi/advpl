@@ -6,7 +6,7 @@ USER FUNCTION ZA5070()
  
 
 PRIVATE cCadastro  := "Cadastro dos Parâmetros de Integração"
-
+private sss
 
 PRIVATE aRotina := { { OemToAnsi("Pesquisar")  ,"AxPesqui"   ,0,1},;  //"Pesquisar"
       { OemToAnsi("Visual")  ,"AxAlter"  ,0,2},;  //"Visual"
