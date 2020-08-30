@@ -20,7 +20,7 @@ PRIVATE oMeter      := Nil
 private aMsg		:={}
 private teste
 
-///comentario dsdsd
+///comentario
 
 
 
