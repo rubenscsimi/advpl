@@ -19,8 +19,6 @@ PRIVATE oSay        := Nil
 PRIVATE oMeter      := Nil
 private aMsg		:={}
 
-///comentario
-
 
 
 Define Dialog oDlb Title "Processamento " From 0,0 To 75,400 Pixel
