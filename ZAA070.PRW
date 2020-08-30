@@ -6,7 +6,7 @@ USER FUNCTION ZAA070()
  
 
 PRIVATE cCadastro  := "Cadastro das Aliquotas de ISS"
-
+teste
 
 PRIVATE aRotina := { { OemToAnsi("Pesquisar")  ,"AxPesqui"   ,0,1},;  //"Pesquisar"
       { OemToAnsi("Visual")  ,"AxAlter"  ,0,2},;  //"Visual"
